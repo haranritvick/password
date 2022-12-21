@@ -1,3 +1,5 @@
+Use Security pin as 6069 to update the password.
+
 My project is based on password management in net-banking /internet-banking. When a user wants to change his password, he should enter a new password which is different from the last three password that were changed previously. In case, if the user enters the new password which is same as that of the last three passwords, then a message alert should be displayed to the user stating that 'The new password should be different from the last three passwords changed'.
 For example:
  If the user is updating his password for the first time, then he can enter any password of his wish.
